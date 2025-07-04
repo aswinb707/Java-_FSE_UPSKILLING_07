@@ -108,19 +108,6 @@ To run this project locally:
    git clone https://github.com/your-username/module-3-core-java.git
 ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd module-3-core-java
-   ```
-
-3. Compile and run any Java file:
-
-   ```bash
-   javac src/basics/HelloWorld.java
-   java src.basics.HelloWorld
-   ```
-
 > ⚠️ Make sure JDK is installed and environment variables (`JAVA_HOME`, `PATH`) are correctly configured.
 
 

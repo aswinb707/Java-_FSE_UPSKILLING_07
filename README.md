@@ -77,8 +77,6 @@ To run this project locally:
    * Practice using the queries in `exercises.sql`
 Great! Here's the **Module 3 README** in your preferred format and markdown style:
 
----
-
 # MODULE-3  
 ## Core_Java_Exercises
 
